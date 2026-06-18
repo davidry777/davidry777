@@ -2,7 +2,7 @@
 
 ### 👋 What I do?
 
-My name is David, and I'm completing my M.S. in Data Science @ Northeastern University, 2026, after finishing my B.S. in Data Science at UC Riverside.
+My name is David, and I completed my M.S. in Data Science @ Northeastern University (April '26) after finishing my B.S. in Data Science at UC Riverside (June '24)
 
 My strengths lie in end-to-end LLM integration and production AI systems, ML model development, and turning raw data into actionable insights through exploratory data analysis and visualization. I'm highly proficient in building multi-agent architectures using LangGraph and Agentic CoT and RAG pipelines backed by vector databases like Chroma and Weaviate. I have hands-on experience with SQL and NoSQL databases across relational (PostgreSQL, MySQL), document (MongoDB), and vector storage (Chroma, Weaviate, Pgvector) — whatever the data architecture demands. I'm comfortable taking a system from prototype all the way through FastAPI, Docker, and cloud deployment on AWS or Azure.
 
